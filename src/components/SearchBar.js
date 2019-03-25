@@ -9,7 +9,7 @@ class SearchBar extends Component {
 
   onFormSubmit = evt => {
     evt.preventDefault();
-    // this.setState({ term: evt.target.value });
+    
   }
   
 
