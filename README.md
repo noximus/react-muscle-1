@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Demo:](https://lucid-meninsky-09a27d.netlify.com/)
+[Demo: Click here to preview!](https://lucid-meninsky-09a27d.netlify.com/)
 
 ## Available Scripts
 
