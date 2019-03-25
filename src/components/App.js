@@ -10,7 +10,7 @@ class App extends React.Component {
     selectedVideo: null
   }
   componentDidMount () {
-    this.onTermSubmit('developers')
+    this.onTermSubmit('coding phase')
   }
   onTermSubmit = async term => {
     const response = await youtube.get('/search', {
