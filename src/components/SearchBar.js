@@ -12,7 +12,6 @@ class SearchBar extends Component {
     
     this.props.onFormSubmit(this.state.term);
   }
-  
 
   render() {
     return (
